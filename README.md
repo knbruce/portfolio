@@ -15,3 +15,8 @@ A Microsoft SQL Server database designed for managing hospital records, medical 
 1. Clone this repository:
    ```bash
    git clone [https://github.com/knbruce/portfolio.git](https://github.com/knbruce/portfolio.git)
+
+
+IOT PROJECTS
+https://wokwi.com/projects/470331857501494273
+https://wokwi.com/projects/470271850423685121
